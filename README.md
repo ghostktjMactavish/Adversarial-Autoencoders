@@ -6,6 +6,9 @@ Most classification models are made by making an assumption that we already know
 In our study we propose an adversarial autoencoder approach to identify this open world data. For more details read the report titled Open World Classification in my repository.
 # Getting Started
 To train a model on certain known digits use the ipython-notebook "CheckAAE.ipynb".
+
 To plot the errors for various classes use "Plotting of Errors AAE.ipynb".
-To get the EVT plots use " EVT Plots AE.ipynb"
-To get find the accuracy and recall plots to determine threshold use "Calculate_EVT_Score.ipynb"
+
+To get the EVT plots use " EVT Plots AE.ipynb".
+
+To get find the accuracy and recall plots to determine threshold use "Calculate_EVT_Score.ipynb".
